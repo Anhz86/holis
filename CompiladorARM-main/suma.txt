@@ -1,0 +1,27 @@
+Inicio main
+{
+	var ent x = 2.5;
+	var ent suma;
+	var ent resta ;
+	var flot division;
+	var flot multiplicacion;
+	var flot residuo;
+	var bool resultadoAND;
+ 	var bool resultadoOR;
+	var bool resultadoNOT;
+	var ent a;
+	var ent b;
+	var ent c;
+	
+	x = a mas b div (a mult c);
+	suma = a mas c;
+	suma = 2 mas 2;
+	resta = 3 menos 2;
+	division = 4.5 div 2.5;
+	multiplicacion = 2.5 mult 2.5;
+	residuo = 8.5 res 2.5;
+
+	escribir(x);
+	escribir("Resultado AND: " + resultadoAND);
+
+}FIN

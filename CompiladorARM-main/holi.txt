@@ -1,0 +1,5 @@
+Inicio main {
+    var ent a;
+    var ent b;
+    var ent c;
+}FIN
